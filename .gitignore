@@ -73,3 +73,6 @@ build/
 
 # Some more exeptions
 !/typings/
+
+# vscode
+.vscode/
