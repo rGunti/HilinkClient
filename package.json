@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rGunti/HilinkClient#readme",
   "devDependencies": {
+    "@types/debug": "0.0.30",
     "tsc": "1.20150623.0",
     "typescript": "2.9.2"
   },
