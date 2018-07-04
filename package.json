@@ -1,0 +1,31 @@
+{
+  "name": "hilink-client",
+  "version": "1.0.0",
+  "description": "Hilink Client is a library that allows you to control a Huawei Surfstick (or Mobile Hotspot) using TypeScript.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rGunti/HilinkClient.git"
+  },
+  "keywords": [
+    "hilink",
+    "huawei"
+  ],
+  "author": "Raphael \"rGunti\" Guntersweiler <raphael@rgunti.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rGunti/HilinkClient/issues"
+  },
+  "homepage": "https://github.com/rGunti/HilinkClient#readme",
+  "devDependencies": {
+    "tsc": "1.20150623.0",
+    "typescript": "2.9.2"
+  },
+  "dependencies": {
+    "debug": "3.1.0",
+    "js-base64": "2.4.5",
+    "xml2js": "0.4.19"
+  }
+}
