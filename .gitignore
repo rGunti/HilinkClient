@@ -59,3 +59,17 @@ typings/
 
 # next.js build output
 .next
+
+# Typescript
+js/*.map
+js/ts.js
+
+# Typescript builds
+build/
+
+# Configs
+/config/*
+!/config/default.json
+
+# Some more exeptions
+!/typings/
