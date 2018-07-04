@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Hilink Client is a library that allows you to control a Huawei Surfstick (or Mobile Hotspot) using TypeScript.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
   },
   "repository": {
     "type": "git",
